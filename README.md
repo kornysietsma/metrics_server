@@ -1,3 +1,5 @@
+## DEPRECATED - moving this stuff to code-sniff, lots of little utilities rather than a server.
+
 # Korny's Metrics Server
 
 Serves up some code metrics to a D3 server for playing with viz stuff
